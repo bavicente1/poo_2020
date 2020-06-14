@@ -1,5 +1,5 @@
 
-package clase7;
+package Clase7;
 
 
 public class Cajero {

@@ -3,7 +3,7 @@
 //- Joselo Ordoñez
 //- Kevin Narvaez
 //-Bryan Vicente
-package clase6;
+package Clase6;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 
-package clase7;
+package Clase7;
 
 import java.util.Scanner;
 
